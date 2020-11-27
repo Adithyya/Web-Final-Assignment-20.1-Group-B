@@ -1,0 +1,29 @@
+body {
+    color: blue;
+    background-color: powderblue;
+}
+
+p {
+    text-transform: capitalize;
+    text-indent: 50px;
+    line-height: 2.8;
+    word-spacing: 8px;
+    white-space: normal;
+}
+
+h1 {
+    color: green;
+    background-color: lightgrey;
+    text-decoration: none;
+    border: 3px dotted red;
+    letter-spacing: 5px;
+    text-shadow: 2px 2px 3px rgb(23,45,76);
+}
+
+.c {
+    vertical-align: top;
+}
+
+a {
+    text-decoration: none;
+}
